@@ -197,7 +197,7 @@ Sube tu rama `main` a GitHub.
 - [ ] Tengo una cuenta activa en GitHub
 - [ ] **Verificación:** Abre https://github.com y haz login
   - Deberías ver tu perfil con tu avatar
-- [ ] Si lograste iniciar sesión → ✅ Marca este checkpoint
+- [x] Si lograste iniciar sesión → ✅ Marca este checkpoint
 
 ### Checkpoint 2: Repositorio Creado en GitHub ✅
 
@@ -206,7 +206,7 @@ Sube tu rama `main` a GitHub.
   - Ve a tu perfil (clic en tu avatar → "Your repositories")
   - Busca tu nuevo repositorio en la lista
   - Haz clic en él — debe estar vacío o con solo README.md
-- [ ] Si ves el repo → ✅ Marca este checkpoint
+- [x] Si ves el repo → ✅ Marca este checkpoint
 
 ### Checkpoint 3: Git y GitHub Conectados ✅
 
@@ -226,7 +226,7 @@ Sube tu rama `main` a GitHub.
   - Ve a GitHub.com y abre tu repositorio
   - Deberías VER tu archivo README.md
   - En "history" o "commits" deberías ver tu commit
-- [ ] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
+- [x] Si cumples AMBAS verificaciones → ✅ Marca este checkpoint
 
 **¡Felicidades! Git local está conectado con GitHub. Ahora puedes colaborar.**
 
