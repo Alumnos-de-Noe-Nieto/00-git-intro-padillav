@@ -164,7 +164,7 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
 ### Checkpoint 1: Entiendes el Problema ✅
 
 - [x] Leo: "El Caos sin Git"
-- [ ] **Verificación:** Piensa en el problema real:
+- [x] **Verificación:** Piensa en el problema real:
   - "¿Cómo colaborarían 4 compañeros sin Git?"
   - Escribe al menos 1 problema en tu mente (ej: sobrescribir archivos)
 - [x] Si pensaste en al menos 1 → ✅ Marca este checkpoint
@@ -172,15 +172,15 @@ Git puede ir hacia ATRÁS en tiempo: "Quiero el código de las 11:30 AM" → ✅
 ### Checkpoint 2: Entiendes la Solución ✅
 
 - [x] Leo: "La Solución: Git"
-- [ ] **Verificación:** Responde sin mirar el documento:
+- [x] **Verificación:** Responde sin mirar el documento:
   - "¿Git es un programa local o en la nube?"
   - **Respuesta correcta:** "Local (en tu computadora)"
 - [x] Si respondiste correctamente → ✅ Marca este checkpoint
 
 ### Checkpoint 3: Los 3 Conceptos Cristal Claros ✅
 
-- [ ] Leo: Las definiciones de Repositorio, Commit, Rama
-- [ ] **Verificación:** Completa estas frases:
+- [x] Leo: Las definiciones de Repositorio, Commit, Rama
+- [x] **Verificación:** Completa estas frases:
   - "Un repositorio es..." → `[tu carpeta + la carpeta .git]`
   - "Un commit es..." → `[un punto de guardado con cambios]`
   - "Una rama es..." → `[una línea de desarrollo]`
