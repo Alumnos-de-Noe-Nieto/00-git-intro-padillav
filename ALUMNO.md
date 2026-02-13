@@ -29,4 +29,6 @@ git log --oneline - muestra el historial de cambios en una sola linea por cada c
 Aprendi la importancia de trabajar con git al ser una herramienta escencial para trabajar de manera ordenada en equipo, tener un historial de cambios en todo momento por si hago algo mal y sobre todo 
 por la paz de trabajar y poder volver a un punto seguro, sabiendo que siempre puedo deshacer mis errores.
 **Fecha:** 13 de febrero del 2026
-Nombre y enlace de repositorio de ejercicios: Mi-Proyecto-Practica https://github.com/padillav/Mi-Proyecto-Practica.git
+
+**Nombre y enlace de repositorio de ejercicios:** Mi-Proyecto-Practica
+https://github.com/padillav/Mi-Proyecto-Practica.git
