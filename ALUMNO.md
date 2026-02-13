@@ -30,5 +30,7 @@ Aprendi la importancia de trabajar con git al ser una herramienta escencial para
 por la paz de trabajar y poder volver a un punto seguro, sabiendo que siempre puedo deshacer mis errores.
 **Fecha:** 13 de febrero del 2026
 
-**Nombre y enlace de repositorio de ejercicios:** Mi-Proyecto-Practica
-https://github.com/padillav/Mi-Proyecto-Practica.git
+## Repositorio de ejercicios
+**Nombre del repositorio en GitHub:** Mi-Proyecto-Practica
+
+**Enlace público al repositorio:**  https://github.com/padillav/Mi-Proyecto-Practica.git
