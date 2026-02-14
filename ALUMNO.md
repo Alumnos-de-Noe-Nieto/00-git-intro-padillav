@@ -31,6 +31,8 @@ por la paz de trabajar y poder volver a un punto seguro, sabiendo que siempre pu
 **Fecha:** 13 de febrero del 2026
 
 ## Repositorio de ejercicios
-**Nombre del repositorio en GitHub:** Mi-Proyecto-Practica
+**Nombre del repositorio en GitHub:** 
+Mi-Proyecto-Practica
 
-**Enlace público al repositorio:**  https://github.com/padillav/Mi-Proyecto-Practica.git
+**Enlace público al repositorio:** 
+ https://github.com/padillav/Mi-Proyecto-Practica.git
