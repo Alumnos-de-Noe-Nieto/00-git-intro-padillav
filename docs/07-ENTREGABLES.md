@@ -270,9 +270,9 @@ Antes de subir tu archivo, verifica:
 - [x] Ejecuté `git commit` con buen mensaje
 - [x] Ejecuté `git push`
 - [x] **Verificación:** Abrí GitHub.com y vi `ALUMNO.md` en mi repositorio
-- [] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
-- [] Publiqué mi repositorio de ejercicios en GitHub y es público
-- [] Incluí el nombre y enlace público al repositorio en ALUMNO.md
+- [x] Completé todos los ejercicios de [EJERCICIO.md](EJERCICIO.md) y marqué los checkpoints
+- [x] Publiqué mi repositorio de ejercicios en GitHub y es público
+- [x] Incluí el nombre y enlace público al repositorio en ALUMNO.md
 Si completaste TODO → ✅ **¡ENTREGABLE COMPLETO!**
 
 ---
